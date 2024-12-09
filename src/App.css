@@ -1,0 +1,11 @@
+.mainContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.main{
+  background-image: url("https://img.freepik.com/free-photo/flat-lay-blue-desk-with-laptop-headphones_23-2148291112.jpg");
+  background-size: cover;
+}
