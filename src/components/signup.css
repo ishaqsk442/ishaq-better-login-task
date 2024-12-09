@@ -53,7 +53,10 @@
   }
   
   
-  
+  .success{
+    color: rgb(43, 235, 43);
+    font-weight: bold;
+}
   .signup-form p {
     margin-top: 20px;
     font-size: 14px;

@@ -96,7 +96,7 @@ const LoginForm: React.FC<Props> = ({ toggleForm }) => {
           </Form>
         </Formik>
 
-        {message && <p>{message}</p>}
+        {message && <p className="success">{message}</p>}
         <p>
           Don't have an account?{" "}
           <button className="signup" type="button" onClick={toggleForm}>

@@ -76,7 +76,10 @@
 
   
 
-
+.success{
+    color: rgb(43, 235, 43);
+    font-weight: bold;
+}
   .input-container {
     display: flex;
     justify-content: baseline;
